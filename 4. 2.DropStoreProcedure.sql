@@ -1,0 +1,1 @@
+DROP Procedure summary_order_status;
